@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200067403106",
+    "project_id": "firebase-shoppee",
+    "storage_bucket": "firebase-shoppee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200067403106:android:97fb61151e2cdd5764703b",
+        "android_client_info": {
+          "package_name": "com.example.shoppee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200067403106-74riabv3jdkp6j5l8a9de0hd72a71297.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUmh1ONP4oT4TOK_01fM8dOe1_BopyWbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200067403106-74riabv3jdkp6j5l8a9de0hd72a71297.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
